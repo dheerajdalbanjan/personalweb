@@ -1,0 +1,110 @@
+div{
+    background-color: #FFEDDB;
+    margin: 0;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #BF9270;
+}
+.heading{
+    font-size: 2.5rem;
+    margin: 20px auto 70px auto;
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+    background-color: #FFEDDB;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #BF9270;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #BF9270;
+}
+img{
+    width: 300px;
+}
+.cloud{
+    width: 300px;
+    position: absolute;
+    left: 180px;
+    bottom: 140px;
+}
+.mountain{
+    width: 500px;
+}
+.fcloud{
+    position: absolute;
+    top: 5px;
+    right: 180px;
+}
+p{
+    margin: 50px;
+}
+.first{
+    padding-top: 150px;
+    position: relative;
+}
+.profile{
+    width: 300px;
+    background-color: white;
+    border-radius: 300px;
+    margin: 50px;
+}
+ul{
+    list-style: none;
+    /* text-align: left; */
+    margin:0;
+}
+.no{
+    display: block;
+}
+li {
+    position: relative;
+    right: 10px;
+    display: inline-block;
+    margin: 50px;
+}
+hr{
+    margin: 50px auto 50px auto;
+    border-width: 10px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-style: dotted;
+    width: 4%;
+    text-align: center;
+    /* align-content: center; */
+    background-color: #FFEDDB;
+    color: gray;
+    padding-top: 20px;
+}
+.contact{
+    padding: 0;
+    height: 100px;
+}
+.contact li{
+    display: inline-block;
+    color: white;
+}
+.contact li a {
+    color: white;
+    text-decoration: none;
+}
+.contact li a:hover{
+    color: black;
+}
+.touch{
+    margin-top: 0;
+}
+.third{
+    margin: 40px 0 0 0 ;
+    height: 100px;
+    background-color: gray;
+}
